@@ -1,2 +1,2 @@
 # ASPCore-Demo
-Demo project for ASP.dot net core
+Demo project for ASP.dot net core Author - Dheeraj Bansal
